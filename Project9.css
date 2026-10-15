@@ -81,3 +81,6 @@ p.fixed {
     background-color: #ffebc6;
     border: 2px solid maroon;
 }
+header{
+    border-bottom: 2px solid maroon;
+}
