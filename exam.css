@@ -13,6 +13,7 @@ body {
     box-shadow: 5px 5px black;
     background-color: white;
     background-image: url("images/shsu-orange.jpeg");
+    background-size: 550px auto;
     background-position: right top;
     background-repeat: repeat-y;
     background-attachment: fixed;
@@ -31,7 +32,7 @@ nav ul {
 
 nav li {
     float: left;
-    width: 18%;
+    width: 12.5%;
 }
 
 nav a {
@@ -97,7 +98,7 @@ aside {
     padding: 1.5em;
     box-sizing: border-box;
     background-color: lightgreen;
-    border: 3px solid darkgreen;
+    border: 3px solid green;
 }
 
 aside ul {
