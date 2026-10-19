@@ -58,12 +58,15 @@ main {
 
 main h1 {
     column-span: all;
-    color: darkgreen;
+    color: green;
     font-size: 200%;
 }
 
 main h2 {
-    color: darkgreen;
+    color: green;
+    font-size: 150%;
+    margin-top: 1em;
+    margin-bottom: 1.5em;
 }
 
 main img {
