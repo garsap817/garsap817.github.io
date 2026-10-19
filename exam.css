@@ -53,7 +53,7 @@ main {
     margin-left: 2em;
     column-count: 3;
     column-gap: 2em;
-    column-rule: 10px dotted darkgreen;
+    column-rule: 10px dotted green;
 }
 
 main h1 {
@@ -76,6 +76,7 @@ main img {
 }
 
 main p::first-letter {
+    font-family: "Brush Script MT" cursive;
     font-size: 3em;
     font-weight: bold;
     font-style: italic;
