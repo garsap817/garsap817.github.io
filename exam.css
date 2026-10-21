@@ -80,7 +80,7 @@ main img {
 }
 
 main p::first-letter {
-    font-family: "Brush Script MT" cursive;
+    font-family: "Brush Script MT", cursive;
     font-size: 3em;
     font-weight: bold;
     font-style: italic;
