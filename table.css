@@ -44,7 +44,7 @@ table.second thead tr:first-child {
 }
 
 table.third {
-  width: 100%;
+  width: auto;
   border-collapse: collapse;
   margin-top: 1em;
 }
